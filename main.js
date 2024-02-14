@@ -1,4 +1,4 @@
-#!/usr/bin/env bash;
+#!/usr/bin/env node;
 import inquirer from "inquirer";
 import chalk from "chalk";
 let apilink = "https://v6.exchangerate-api.com/v6/3fd78a6341a168ddf6863092/latest/PKR";
